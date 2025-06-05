@@ -1,0 +1,30 @@
+Quests :
+- Added More Quests
+
+Added mods :
+- Added Mythic Mounts
+
+Removed mods :
+- Removed Mindful Darkness
+
+Disabled mods :
+- Disabled LambDynamicLights
+
+Updated mods :
+- Updated BetterHP
+- Updated Skin3D
+- Updated Polymorph
+- Updated Essential (Mod not FTB)
+- Updated Supplementaries  + Supplementaries Squared + Moonlight Lib
+- Updated Sophisticated Backpacks + Lib
+- Updated Storage Drawers
+- Updated Dis-Enchanting Table
+- Updated Sound Physics Remastered
+- Updated Balm
+- Updated Sodium
+- Updated Waystones
+- Updated FTB Essentials
+- Updated hexalia
+- Updated subtle effects
+- Updated Jade + Addons
+- Updated Immersive Melodies
