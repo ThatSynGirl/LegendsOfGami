@@ -1,6 +1,6 @@
 # LegendsOfGami
 For Modpack on Curseforge
 
-Modpack link :
+Modpack links :
 
 https://www.curseforge.com/minecraft/modpacks/legends-of-gami
